@@ -14,7 +14,6 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
-	"strings"
 
 	"github.com/golang/dep"
 	"github.com/golang/dep/internal/gps"
